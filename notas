@@ -1,0 +1,43 @@
+isolar dependencias do projeto
+
+se precisar usar mais de 1 versao de um programa/sistema/ambiente
+
+não funciona o projeto no servidor pq não tem as mesmas configuraçoes do computador
+
+Ambiente virtual
+
+Ferramenta de python eu procuro no repositorio para phyton: Pypi.org
+    eu posso conectar via site ou prompt de comando
+        prompt de comando:
+        - pip
+        - pip --version
+        - -m pip --version
+
+pip freeze pra saber o q eu tenho de phyton
+controlar o q tem ou naõ vou criar um ambiente virtual
+
+pip search yala   eslint(para javascript)
+
+pip install yala versao + recente
+    ele instala o yala + o q vc precisa (dependencias? requisitos)
+pip install yala:0.12
+
+pip freeze ver o q esta instalou 
+
+
+demonstrar o q vc instalou
+
+pip freeze>requirements.txt - cria um arquivo com todas as dependencias
+
+
+ver na foto como q faz pra instalar o requirements em um ambiente novo
+
+
+
+Yala erros
+documentaçao(docstring) no inicio """explicar o q faz  """
+
+
+desativar ambiente
+
+
